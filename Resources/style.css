@@ -1,0 +1,105 @@
+.spaceship {
+  background-image: url("./Images/spaceship.jpg");
+  height: 600px;
+}
+
+.jum {
+  color: #f8f8ff;
+}
+
+h4 {
+  font-size: 25px;
+}
+
+p{
+  font-size: 18px;
+}
+
+.service {
+  background-color: #faf0e6;
+}
+
+span {
+  font-size: 18px;
+}
+
+.ocean {
+  background-image: url("./Images/ocean.jpg");
+  color: #f8f8ff;
+  font-weight: 600;
+}
+
+.but{
+
+  background-color: #556b2f;
+  padding-top: 15px;
+  color: white;
+}
+
+.work {
+  margin-top: 40px;
+  background-color: #a9a9a9;
+  padding-bottom: 15px;
+  color: white;
+}
+
+.contact {
+  background-color: #d2691e;
+  color: #f0ffff;
+}
+
+.aboutus{
+  background-image: url("./Images/spaceship.jpg");
+}
+
+.knowus {
+  background-color: #c0c0c0;
+  padding-top: 20px;
+}
+
+.focus {
+  padding-top: 30px;
+}
+
+.cont {
+  background-position:
+}
+
+.second-contact {
+  padding-top: 30px;
+}
+
+.space{
+  margin-top: 60px;
+}
+
+.port {
+  padding-bottom: 140px;
+}
+
+.design {
+  background-color: #dcdcdc;
+}
+
+.border{
+  padding-top: 18px;
+  font-size: 16px;
+  font-weight: 800;
+  color: red
+}
+
+.proven{
+  background-color: #dcdcdc;
+  padding-top: 30px;
+  padding-bottom: 30px;
+}
+
+.SEO{
+  padding-top: 15px;
+}
+
+footer {
+  background-color: black;
+  color: white;
+  padding: 20px;
+}
