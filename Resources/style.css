@@ -98,6 +98,10 @@ span {
   padding-top: 15px;
 }
 
+.btn a{
+  color: white;
+}
+
 footer {
   background-color: black;
   color: white;
